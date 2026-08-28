@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:shambhavishastry.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:shambhavishastry.github.io#a30e856bf522b01c7721444fdaedbbc78494d0fce4a3a8f64926123d3b83d906",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:shambhavishastry.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "q2x9R-at04oTYNrovbjF8gWrb7J8WFjPKFiC_KtFIYc=",
+        "y": "e2azDE9MturZr-hHDS5z_DbHAymX59tx-M2O-EZVIkA=",
+        "kid": "a30e856bf522b01c7721444fdaedbbc78494d0fce4a3a8f64926123d3b83d906",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
