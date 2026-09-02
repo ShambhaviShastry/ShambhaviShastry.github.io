@@ -6,15 +6,15 @@
   "id": "did:web:shambhavishastry.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:shambhavishastry.github.io#caca2a747e12612e2c9cb5f6161e6298e4acdc8d4a02ac88a868ad9095f922e3",
+      "id": "did:web:shambhavishastry.github.io#ec34a704ea9ea8712a3d5677b3122304cc991cfcf9f905ba91d5ed190bbdb3d3",
       "type": "JsonWebKey2020",
       "controller": "did:web:shambhavishastry.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "Di4A1Mf-JAyY0FGEv1BPJ9qy5zh7QQmA-68H7YyQQf8=",
-        "y": "M6_BdWnUVLc30ZXqDiea2xE52fymivr0pL98YdqEJR0=",
-        "kid": "caca2a747e12612e2c9cb5f6161e6298e4acdc8d4a02ac88a868ad9095f922e3",
+        "x": "TzYpWd4Cvw0jvM_d45rzzr2uK5omypc1ZaWZlyjgfqA=",
+        "y": "cSnj7Sdaj8wuWoedmXleAbt4j9TDHsqZan0eJmHfwY4=",
+        "kid": "ec34a704ea9ea8712a3d5677b3122304cc991cfcf9f905ba91d5ed190bbdb3d3",
         "alg": "ES256"
       }
     }
